@@ -139,6 +139,8 @@
     <ClCompile Include="right_triangle.cpp" />
     <ClCompile Include="square.cpp" />
     <ClCompile Include="triangle.cpp" />
+    <ClCompile Include="WrongFigure.cpp" />
+    <ClCompile Include="WrongFigure2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="equilateral_triangle.h" />
@@ -152,6 +154,8 @@
     <ClInclude Include="right_triangle.h" />
     <ClInclude Include="square.h" />
     <ClInclude Include="triangle.h" />
+    <ClInclude Include="WrongFigure.h" />
+    <ClInclude Include="WrongFigure2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
